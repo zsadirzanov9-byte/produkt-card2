@@ -1,19 +1,19 @@
-.body{
-    font-family:Arial, sans-serif ;
+.body {
+    font-family: Arial, sans-serif ;
     font-size: 13px;
-
+    margin: 20px;
+    padding: 20px;
 }
 
 
-.title{
-    color:#515076;
+.title {
+    color: #515076;
     font-size: 70px;
     font-width: 400px;
     line-height: 78px;
-    margin: 0;
     text-align: center;         
 }    
-.description{
+.description {
     font-weight: 400px;
     font-size: 12px;
     line-height: 24px;
@@ -21,20 +21,20 @@
     letter-spacing: 0;        
 }
 .product,
-.cost{
+.cost {
     font-weight: 700px;
     font-size: 20px;
     line-height: 27px;
     color: #515076;
 }
 .features,
-.structure{
+.structure {
     font-weight: 400px;
     font-size: 13px;
     line-height: 18px;
     color: #515076;
 }
-.price{
+.price {
     font-weight: 400px;
     font-size: 20px;
     line-height: 24px;
