@@ -1,0 +1,18 @@
+.container {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    background-image: url(img/dandelion-background-image.png);
+    background-size: 790px 697px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    padding: 100px;
+    padding-top: 1px;
+}
+
+.container__card {
+    padding: 25px;
+    width: 290px;
+    background-color:   #f5f5f5;
+}
